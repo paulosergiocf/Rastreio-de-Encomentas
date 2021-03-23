@@ -18,7 +18,7 @@ Vejamos agora um exemplo de como utilizar a Ferramenta.
 No terminal execute o script:
 
 ```sh
- python app.pyw
+ python rastrear.pyw
 ```
 Se estiver utilizando Windows basta dar dois cliques desde que o python esteja corretamente instalado.
 
